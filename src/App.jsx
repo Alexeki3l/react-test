@@ -4,6 +4,7 @@ import CrudApp from "./components/CrudApp";
 import CrudApi from "./components/CrudApi";
 import SongSearch from "./components/SongSearch";
 
+// Aqui es donde se ponen los componentes principales de la aplicacion
 function App() {
   return (
     <>
