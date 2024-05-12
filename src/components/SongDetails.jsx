@@ -2,7 +2,7 @@ import Message from "./Mensaje";
 import SongArtist from "./SongArtist";
 import SongLyric from "./SongLyric";
 
-//Comentario de prueba para merging ramas
+//Comentario de prueba para merging ramas. Mas edicion de comentarios
 const SongDetails = ({ search, lyric, bio }) => {
   if (!lyric || !bio) return null;
 
